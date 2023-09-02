@@ -1,0 +1,14 @@
+# Inifiles are ignored per default.
+# If an ini file gets changed and should be tracked,
+# add it as an exception, e.g.
+# !inifiles/StarSystem.ini
+inifiles/*.ini
+
+release
+
+scripts/user_scripts.bin
+
+Save
+
+Few-New-Missions.code-workspace
+Few-New-Missions*.zip
