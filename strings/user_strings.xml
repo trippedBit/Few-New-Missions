@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<Workbook xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+ <Worksheet ss:Name="Tabelle1">
+  <Table>
+   <Column/>
+   <Column/>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION001_HEADER</Data></Cell>
+    <Cell><Data ss:Type="String">Lost container</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION001_CLIENT</Data></Cell>
+    <Cell><Data ss:Type="String">Lost container owner</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION001_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">I'm the owner of a container I just lost outside the station. My ship cannot start at the moment. Could you please get the container for me?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION001_GOODS</Data></Cell>
+    <Cell><Data ss:Type="String">Lost container's content</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION002_HEADER</Data></Cell>
+    <Cell><Data ss:Type="String">Elderly care</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION002_CLIENT</Data></Cell>
+    <Cell><Data ss:Type="String">Old man</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION002_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Hey, you! Yes I'm talking to you. I saw your ship and hope you can help me. Some pirats attacked and destroyed my ship. I was able to flee in an escape pod but I could not take my personal belongings with me. Could you please try to find them and bring them back?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION002_GOODS</Data></Cell>
+    <Cell><Data ss:Type="String">An old man's personal belongings</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION3_ID</Data></Cell>
+    <Cell><Data ss:Type="String">M003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_INIT</Data></Cell>
+    <Cell><Data ss:Type="String">Initializing mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_CREATE</Data></Cell>
+    <Cell><Data ss:Type="String">Creating mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_SUBTYPE</Data></Cell>
+    <Cell><Data ss:Type="String">Setting subtype for mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_TARGET</Data></Cell>
+    <Cell><Data ss:Type="String">Setting mission target for mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_TARGET_DONE</Data></Cell>
+    <Cell><Data ss:Type="String">Setting mission target for mission %1 done</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_ACHIEVED</Data></Cell>
+    <Cell><Data ss:Type="String">Achieved mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_FAILED</Data></Cell>
+    <Cell><Data ss:Type="String">Failed mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_TEXTS</Data></Cell>
+    <Cell><Data ss:Type="String">Setting texts for mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_ENEMY</Data></Cell>
+    <Cell><Data ss:Type="String">Creating enemy for mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_ENEMY_DONE</Data></Cell>
+    <Cell><Data ss:Type="String">Created enemy for mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION3_ENEMY_DESTROYED</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Target wing destroyed</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION003_HEADER</Data></Cell>
+    <Cell><Data ss:Type="String">Red Rabbit</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION003_CLIENT</Data></Cell>
+    <Cell><Data ss:Type="String">Concerned citizens</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION003_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">A pirate and smuggler called Red Rabbit threatens us for some weeks now. Frighters do not come to our system anymore and we are running out of supplies. Could you please help us?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION003_RED_RABBIT_DISCIPLE</Data></Cell>
+    <Cell><Data ss:Type="String">Red Rabbit Disciple</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_NPC</Data></Cell>
+    <Cell><Data ss:Type="String">Creating NPC for mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_NPC_DONE</Data></Cell>
+    <Cell><Data ss:Type="String">Created NPC for mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_NPC_DESTROY</Data></Cell>
+    <Cell><Data ss:Type="String">Destroying NPC for mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_NPC_DESTROY_DONE</Data></Cell>
+    <Cell><Data ss:Type="String">Destroyed NPC for mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION4_ID</Data></Cell>
+    <Cell><Data ss:Type="String">M004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_WINGS</Data></Cell>
+    <Cell><Data ss:Type="String">Creating Wings for mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_WINGS_DONE</Data></Cell>
+    <Cell><Data ss:Type="String">Created Wings for mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION004_HEADER</Data></Cell>
+    <Cell><Data ss:Type="String">Save the tourists</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION004_CLIENT</Data></Cell>
+    <Cell><Data ss:Type="String">Incredible Experience Travel Agency</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION004_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Hello Traveller. We are looking for a capable pilot to ensure our good reputation. Something went wrong on one of our "Experience a Pirate Attack" tours and it is now a "Survive a Pirate Attack" tour. It is not our fault that the mercenaries are so "into" their role, but we need to protect our reputation. Save as many tourists as possible.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION4_WING1</Data></Cell>
+    <Cell><Data ss:Type="String">Incredible Experience I</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION004_START_FIGHT</Data></Cell>
+    <Cell><Data ss:Type="String">Distance below 1500m, starting fight.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION004_NOT_CLOSE_ENOUGH</Data></Cell>
+    <Cell><Data ss:Type="String">Not close enough, wings remain in waiting mode</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION5_ID</Data></Cell>
+    <Cell><Data ss:Type="String">M005</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION005_HEADER</Data></Cell>
+    <Cell><Data ss:Type="String">Planet race</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION005_CLIENT</Data></Cell>
+    <Cell><Data ss:Type="String">Galaxy race organization</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION005_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Do you have what it needs to be a true winner? We are searching the fastest pilot of the universe. That's you? Show us!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_CREATE_WAYPOINTS</Data></Cell>
+    <Cell><Data ss:Type="String">Creating waypoints for mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_MISSION_CREATE_WAYPOINTS_DONE</Data></Cell>
+    <Cell><Data ss:Type="String">Created waypoints for mission %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_WAYPOINT_TRIGGERED</Data></Cell>
+    <Cell><Data ss:Type="String">Waypoint triggered</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_TIME_MEASUREMENT_START</Data></Cell>
+    <Cell><Data ss:Type="String">Time measurement started</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_TIME_MEASUREMENT_END</Data></Cell>
+    <Cell><Data ss:Type="String">Time measurement ended</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_TIME_BELOW_30</Data></Cell>
+    <Cell><Data ss:Type="String">below 30s</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_TIME_ABOVE_30</Data></Cell>
+    <Cell><Data ss:Type="String">above 30s</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_TIME_BELOW_140</Data></Cell>
+    <Cell><Data ss:Type="String">below 140s</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_TIME_BELOW_130</Data></Cell>
+    <Cell><Data ss:Type="String">below 130s</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_TIME_BELOW_110</Data></Cell>
+    <Cell><Data ss:Type="String">below 110s</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_TIME_BELOW_100</Data></Cell>
+    <Cell><Data ss:Type="String">below 100s</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_TIME_BELOW_120</Data></Cell>
+    <Cell><Data ss:Type="String">below 120s</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_TIME_BELOW_165</Data></Cell>
+    <Cell><Data ss:Type="String">below 165s</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_TIME_BELOW_160</Data></Cell>
+    <Cell><Data ss:Type="String">below 160s</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_TIME_BELOW_170</Data></Cell>
+    <Cell><Data ss:Type="String">below 170s</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ID_TIME_TOO_SLOW</Data></Cell>
+    <Cell><Data ss:Type="String">too slow</Data></Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>
